@@ -1,1 +1,1 @@
-# Machine-Learning-Diabetes-Prediction
+## Machine Learning Algorithms for Diabetes Prediction
